@@ -15,7 +15,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:title="TANK BE LIKE🫡🫡"/>
+        app:title="PRODUCT BE LIKE🫡🫡"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
